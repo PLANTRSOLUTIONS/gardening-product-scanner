@@ -1,0 +1,371 @@
+[
+  {
+    "productName": "Miracle-Gro Moisture Control",
+    "brand": "Miracle-Gro",
+    "category": "Soil",
+    "ingredientList": "peat moss, coir, perlite, synthetic fertilizer",
+    "suggestedAlternatives": "FoxFarm Ocean Forest Soil",
+    "imageURL": "",
+    "source": "https://www.miraclegro.com"
+  },
+  {
+    "productName": "RoundUp Ready-to-Use",
+    "brand": "Bayer",
+    "category": "Herbicide",
+    "ingredientList": "glyphosate, water, surfactants",
+    "suggestedAlternatives": "Green Gobbler Vinegar Weed Killer",
+    "imageURL": "",
+    "source": "https://www.roundup.com"
+  },
+  {
+    "productName": "Bonide Neem Oil Extract",
+    "brand": "Bonide",
+    "category": "Pesticide",
+    "ingredientList": "neem oil, water, emulsifier",
+    "suggestedAlternatives": "EcoSMART Organic Insect Killer",
+    "imageURL": "",
+    "source": "https://www.bonide.com"
+  },
+  {
+    "productName": "FoxFarm Ocean Forest Soil",
+    "brand": "FoxFarm",
+    "category": "Soil",
+    "ingredientList": "earthworm castings, bat guano, sea-going fish and crab meal, forest humus",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.foxfarm.com"
+  },
+  {
+    "productName": "Green Gobbler Vinegar Weed Killer",
+    "brand": "Green Gobbler",
+    "category": "Herbicide",
+    "ingredientList": "vinegar (20% acetic acid), water",
+    "suggestedAlternatives": "Avenger Organics Weed Killer",
+    "imageURL": "",
+    "source": "https://www.greengobbler.com"
+  },
+  {
+    "productName": "Wondercide Outdoor Pest Control",
+    "brand": "Wondercide",
+    "category": "Pesticide",
+    "ingredientList": "cedarwood oil, sesame oil, sodium lauryl sulfate, glyceryl monooctanoate, water, soap, decanoic acid, monoester with 1,2,3 propanetriol",
+    "suggestedAlternatives": "Cedarcide Original",
+    "imageURL": "",
+    "source": "https://www.wondercide.com"
+  },
+  {
+    "productName": "Ortho Home Defense",
+    "brand": "Ortho",
+    "category": "Pesticide",
+    "ingredientList": "bifenthrin, zeta cypermethrin",
+    "suggestedAlternatives": "Eco Defense Home Pest Control Spray",
+    "imageURL": "",
+    "source": "https://ortho.com"
+  },
+  {
+    "productName": "Spectracide Triazicide Insect Killer",
+    "brand": "Spectracide",
+    "category": "Pesticide",
+    "ingredientList": "gamma Cyhalothrin",
+    "suggestedAlternatives": "Dr. Earth Final Stop Insect Killer for Yard",
+    "imageURL": "",
+    "source": "https://www.spectracide.com"
+  },
+  {
+    "productName": "Cutter Backyard Bug Control",
+    "brand": "Cutter",
+    "category": "Pesticide",
+    "ingredientList": "lambda cyhalothrin",
+    "suggestedAlternatives": "Dr. Earth Final Stop Yard Insect Killer",
+    "imageURL": "",
+    "source": "https://www.cutterinsectrepellents.com"
+  },
+  {
+    "productName": "Ecovenger Garden Insect Control",
+    "brand": "Ecovenger",
+    "category": "Pesticide",
+    "ingredientList": "citronella Oil, geraniol, cedarwood oil, sodium lauryl sulfate, glyceryl dicaprylate, silica hydrate, glyceryl monooleate and water",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://ecovenger.com"
+  },
+  {
+    "productName": "Spectracide Bug Stop Home Barrier",
+    "brand": "Spectracide",
+    "category": "Pesticide",
+    "ingredientList": "gamma Cyhalothrin",
+    "suggestedAlternatives": "Eco Defense Home Pest Control Spray",
+    "imageURL": "",
+    "source": "https://www.spectracide.com"
+  },
+  {
+    "productName": "Ortho Home Defense Max",
+    "brand": "Ortho",
+    "category": "Pesticide",
+    "ingredientList": "bifenthrin",
+    "suggestedAlternatives": "Eco Defense Home Pest Control Spray",
+    "imageURL": "",
+    "source": "https://ortho.com"
+  },
+  {
+    "productName": "Stem Kills Ants Roached Flies",
+    "brand": "Stem",
+    "category": "Pesticide",
+    "ingredientList": "geraniol, lemongrass Oil, white mineral oil, isopropyl myristate, ethyl lactate",
+    "suggestedAlternatives": "Eco Defense Home Pest Control Spray",
+    "imageURL": "",
+    "source": "https://stemforbugs.com"
+  },
+  {
+    "productName": "Off Backyard Citronella Candle",
+    "brand": "Off",
+    "category": "Pesticide",
+    "ingredientList": "soybean oil, palm oil, citronella oil",
+    "suggestedAlternatives": "Murphy’s Naturals Mosquito Repellent Candle",
+    "imageURL": "",
+    "source": "https://off.com"
+  },
+  {
+    "productName": "Ortho Bug B-gon",
+    "brand": "Ortho",
+    "category": "Pesticide",
+    "ingredientList": "bifenthrin",
+    "suggestedAlternatives": "Dr. Earth Final Stop Insect Killer for Yards and Gardens",
+    "imageURL": "",
+    "source": "https://ortho.com"
+  },
+  {
+    "productName": "Spectracide Malathion Insect Spray",
+    "brand": "Spectracide",
+    "category": "Pesticide",
+    "ingredientList": "malathion",
+    "suggestedAlternatives": "Natria Neem Oil Spray",
+    "imageURL": "",
+    "source": "https://www.spectracide.com"
+  },
+  {
+    "productName": "Compare N Save Concentrated Indoor/Outdoor Insect Control",
+    "brand": "Ragan & Massey",
+    "category": "Pesticide",
+    "ingredientList": "bifenthrin",
+    "suggestedAlternatives": "Dr. Earth Final Stop Insect Killer for Yards and Gardens",
+    "imageURL": "",
+    "source": "https://www.raganandmassey.com"
+  },
+  {
+    "productName": "Garden Tech Sevin Insect Killer",
+    "brand": "Garden Tech",
+    "category": "Pesticide",
+    "ingredientList": "zeta cypermethrin",
+    "suggestedAlternatives": "Dr. Earth Final Stop Insect Killer for Yards and Gardens",
+    "imageURL": "",
+    "source": "https://www.gardentech.com"
+  },
+  {
+    "productName": "Safer Home Diatomaceous Earth Ant and Crawling insect killer",
+    "brand": "Safer",
+    "category": "Pesticide",
+    "ingredientList": "diatomaceous earth",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.saferbrand.com"
+  },
+  {
+    "productName": "Spectracide Weed and Grass Killer",
+    "brand": "Spectracide",
+    "category": "Herbicide",
+    "ingredientList": "diquat dibromide",
+    "suggestedAlternatives": "Green Gobbler 20% Vinegar Weed Killer",
+    "imageURL": "",
+    "source": "https://www.spectracide.com"
+  },
+  {
+    "productName": "Crossbow Specialty Herbicide",
+    "brand": "Southern AG",
+    "category": "Herbicide",
+    "ingredientList": "dichlorophenoxyacetic acid",
+    "suggestedAlternatives": "A.D.I.O.S. Organic Herbicide",
+    "imageURL": "",
+    "source": "https://southernag.com"
+  },
+  {
+    "productName": "Ortho Ground Clear Year Long",
+    "brand": "Ortho",
+    "category": "Herbicide",
+    "ingredientList": "Imazapyr, isopropylamine sal,  pelargonic acid",
+    "suggestedAlternatives": "Earth’s Ally Weed & Grass Killer",
+    "imageURL": "",
+    "source": "https://ortho.com"
+  },
+  {
+    "productName": "Bioadvanced Brush Killer",
+    "brand": "Bioadvanced",
+    "category": "Herbicide",
+    "ingredientList": "triclopyr, butoxyethyl ester",
+    "suggestedAlternatives": "A.D.I.O.S. Organic Herbicide",
+    "imageURL": "",
+    "source": "https://bioadvanced.com"
+  },
+  {
+    "productName": "Spruce Weed and Grass Killer",
+    "brand": "Spruce",
+    "category": "Herbicide",
+    "ingredientList": "sodium lauryl sulfate",
+    "suggestedAlternatives": "Green Gobbler 20% Vinegar Weed & Grass Killer",
+    "imageURL": "",
+    "source": "https://spruceit.com"
+  },
+  {
+    "productName": "Roundup Dual Action Weed and Grass Killer",
+    "brand": "Roundup",
+    "category": "Herbicide",
+    "ingredientList": "glyphosate, imazapic",
+    "suggestedAlternatives": "Earth’s Ally Weed & Grass Killer",
+    "imageURL": "",
+    "source": "https://roundup.com"
+  },
+  {
+    "productName": "Roundup For Lawns",
+    "brand": "Roundup",
+    "category": "Herbicide",
+    "ingredientList": "MCPA, dimethylamine salt",
+    "suggestedAlternatives": "Sunday Weed Warrior Spot Weed Control",
+    "imageURL": "",
+    "source": "https://roundup.com"
+  },
+  {
+    "productName": "Ortho Groundclear Weed and Grass Killer",
+    "brand": "Ortho",
+    "category": "Herbicide",
+    "ingredientList": "ammonium nonanoate",
+    "suggestedAlternatives": "Earth’s Ally Weed & Grass Killer",
+    "imageURL": "",
+    "source": "https://ortho.com"
+  },
+  {
+    "productName": "Scotts Halts Crabgrass and Grassy Weed Preventer",
+    "brand": "Scotts",
+    "category": "Herbicide",
+    "ingredientList": "pendimethalin",
+    "suggestedAlternatives": "Corn Gluten Meal (Natural Pre-Emergent)",
+    "imageURL": "",
+    "source": "https://scotts.com"
+  },
+  {
+    "productName": "Ortho Weed Bgon",
+    "brand": "Ortho",
+    "category": "Herbicide",
+    "ingredientList": "dimethylamine salt, quinclorac, dicamba",
+    "suggestedAlternatives": "Sunday Weed Warrior Spot Weed Control",
+    "imageURL": "",
+    "source": "https://ortho.com"
+  },
+  {
+    "productName": "Preen Extended Control Weed Preventer",
+    "brand": "Preen",
+    "category": "Herbicide",
+    "ingredientList": "trifluralin, isoxaben",
+    "suggestedAlternatives": "Corn Gluten Meal (Natural Pre-Emergent)",
+    "imageURL": "",
+    "source": "https://www.preen.com"
+  },
+  {
+    "productName": "Spectracide Weed Stop for Lawns",
+    "brand": "Spectracide",
+    "category": "Herbicide",
+    "ingredientList": "dimethylamine salt",
+    "suggestedAlternatives": "Sunday Weed Warrior Spot Weed Control",
+    "imageURL": "",
+    "source": "https://www.spectracide.com"
+  },
+  {
+    "productName": "A.D.I.O.S. Organic Herbicide",
+    "brand": "Natural Alternative",
+    "category": "Herbicide",
+    "ingredientList": "pelargonic acid",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://natural-alternative.com"
+  },
+  {
+    "productName": "Sunday Weed Warrior Spot Weed Control",
+    "brand": "Sunday",
+    "category": "Herbicide",
+    "ingredientList": "Iron",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.getsunday.com"
+  },
+  {
+    "productName": "Dr. Earth Final Stop Insect Killer for Yards and Gardens",
+    "brand": "Dr Earth",
+    "category": "Pesticide",
+    "ingredientList": "rosemary oil, sesame oil, peppermint oil, thyme oil, cinnamon oil, garlic oil",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://drearth.com"
+  },
+  {
+    "productName": "Murphy’s Naturals Mosquito Repellent Candle",
+    "brand": "Murphy's",
+    "category": "Pesticide",
+    "ingredientList": "rosemary oil, peppermint oil, cintronella oil, lemongrass oil, cedarwood oil",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.murphysnaturals.com"
+  },
+  {
+    "productName": "Cedarcide Original",
+    "brand": "Cedarcide",
+    "category": "Pesticide",
+    "ingredientList": "cedarwood oil, soybean oil",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://cedarcide.com"
+  },
+  {
+    "productName": "EcoSMART Organic Insect Killer",
+    "brand": "Ecosmart",
+    "category": "Pesticide",
+    "ingredientList": "clove oil, thyme oil",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://ecosmart.com"
+  },
+  {
+    "productName": "Avenger Organics Weed Killer",
+    "brand": "Avenger",
+    "category": "Herbicide",
+    "ingredientList": "citrus oil",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.avengerorganics.com"
+  },
+  {
+    "productName": "Eco Defense Home Pest Control Spray",
+    "brand": "Eco Defense",
+    "category": "Pesticide",
+    "ingredientList": "geraniol, peppermint oil, rosemary oil",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.ecodefensestore.com"
+  },
+  {
+    "productName": "Corn Gluten Meal (Natural Pre-Emergent)",
+    "brand": "Marshall Grain Co",
+    "category": "Herbicide",
+    "ingredientList": "zein, nitrogen, carbohydrates, fiber",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://www.marshallgrain.com"
+  },
+  {
+    "productName": "Earth’s Ally Weed & Grass Killer",
+    "brand": "Earth's Ally",
+    "category": "Herbicide",
+    "ingredientList": "sodium chloride",
+    "suggestedAlternatives": "N/A",
+    "imageURL": "",
+    "source": "https://earthsally.com"
+  }
+]

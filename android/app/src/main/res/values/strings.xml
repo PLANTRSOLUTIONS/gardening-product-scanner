@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">gardening-product-scanner</string>
+    <string name="title_activity_main">gardening-product-scanner</string>
+    <string name="package_name">com.daniel.gardenscanner</string>
+    <string name="custom_url_scheme">com.daniel.gardenscanner</string>
+</resources>
