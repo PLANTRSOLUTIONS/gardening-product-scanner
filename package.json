@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start:frontend": "react-scripts start",
-    "start:server": "node server/index.js",
+    "start": "node gardening-product-scanner-backup/server/index.js",
     "start": "concurrently \"npm run start:server\" \"npm run start:frontend\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
