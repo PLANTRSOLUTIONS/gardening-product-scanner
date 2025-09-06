@@ -19,20 +19,11 @@
   },
   "scripts": {
     "start:frontend": "react-scripts start",
-    "build:frontend": "react-scripts build",
     "start:server": "node server/index.js",
     "dev:server": "nodemon server/index.js",
+    "start": "concurrently \"npm run start:server\" \"npm run start:frontend\"",
     "dev": "concurrently \"npm run dev:server\" \"npm run start:frontend\"",
-
-    // ⬇️ Render will run "npm install" → this hook installs server deps too
-    "postinstall": "npm --prefix server install",
-
-    // ⬇️ Render will run this to boot your app
-    "start": "node server/index.js",
-
-    // ⬇️ Build the React app into /build (served by Express in prod)
     "build": "react-scripts build",
-
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:mobile": "react-scripts build && npx cap copy",
@@ -40,17 +31,10 @@
     "open:ios": "npm run build:mobile && npx cap open ios"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
@@ -61,9 +45,5 @@
     "concurrently": "^9.2.0",
     "nodemon": "^3.1.10",
     "npm-run-all": "^4.1.5"
-  },
-  "engines": {
-    "node": ">=18"
   }
 }
-
