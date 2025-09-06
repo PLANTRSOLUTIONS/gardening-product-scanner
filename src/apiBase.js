@@ -1,8 +1,9 @@
 // src/apiBase.js
-const API_BASE =
-  process.env.NODE_ENV === "production"
-    ? "https://gardening-product-scanner.onrender.com/" // 👈 your actual backend Render URL
-    : "http://localhost:5000";
+let API_BASE = "";
+
+// In local development use the backend port
+if (process.env.NODE_ENV === "development") {
+  API_BASE = "http://localhost:5000";
+}
 
 export { API_BASE };
-
