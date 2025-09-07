@@ -1,7 +1,8 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "private": true,
+  "description": "Backend for Gardening Product Scanner",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,13 +11,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.11.0",
     "cors": "^2.8.5",
-    "dotenv": "^17.2.1",
-    "express": "^5.1.0"
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
   }
 }
+
 
 
